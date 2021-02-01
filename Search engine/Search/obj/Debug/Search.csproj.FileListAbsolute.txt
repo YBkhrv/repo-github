@@ -1,0 +1,30 @@
+D:\Works\Search\Search\bin\Debug\Search.exe.config
+D:\Works\Search\Search\bin\Debug\Search.exe
+D:\Works\Search\Search\bin\Debug\Search.pdb
+D:\Works\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+D:\Works\Search\Search\obj\Debug\Search.Form1.resources
+D:\Works\Search\Search\obj\Debug\Search.Properties.Resources.resources
+D:\Works\Search\Search\obj\Debug\Search.csproj.GenerateResource.cache
+D:\Works\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+D:\Works\Search\Search\obj\Debug\Search.exe
+D:\Works\Search\Search\obj\Debug\Search.pdb
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\bin\Debug\Search.exe.config
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\bin\Debug\Search.exe
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\bin\Debug\Search.pdb
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.csprojAssemblyReference.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.Form1.resources
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.Properties.Resources.resources
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.csproj.GenerateResource.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.exe
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search(Julia099)\Search\obj\Debug\Search.pdb
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\bin\Debug\Search.exe.config
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\bin\Debug\Search.exe
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\bin\Debug\Search.pdb
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.csprojAssemblyReference.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.Form1.resources
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.Properties.Resources.resources
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.csproj.GenerateResource.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.exe
+Q:\Git\MyOpenCV\Migrane\GeekBrains\C#3\5\Search engine\Search\obj\Debug\Search.pdb
